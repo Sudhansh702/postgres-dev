@@ -6,7 +6,7 @@ mvn spring-boot:run -Dspring-boot.run.profiles=local
 cd /Users/mac/Documents/Kubits/product-catalog-service
 mvn spring-boot:run
 
-# Notification-service (port 8083)
+# Notification-service (port 8088)
 cd /Users/mac/Documents/Kubits/order-service
 mvn spring-boot:run 
 
